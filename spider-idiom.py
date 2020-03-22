@@ -5,32 +5,6 @@
 @Author       : Li Baoyan
 @Date         : 2020-02-15 11:08:48
 @Github       : https://github.com/This-username-is-available
-@LastEditTime : 2020-03-08 12:50:29
-@LastEditors  : Li Baoyan
-@Description  : 
-"""
-
-
-#!/usr/bin/env python
-# coding=utf-8
-
-"""
-@Author       : Li Baoyan
-@Date         : 2020-02-15 11:08:48
-@Github       : https://github.com/This-username-is-available
-@LastEditTime : 2020-02-27 22:19:25
-@LastEditors  : Li Baoyan
-@Description  : 
-"""
-
-
-#!/usr/bin/env python
-# coding=utf-8
-
-"""
-@Author       : Li Baoyan
-@Date         : 2020-02-15 11:08:48
-@Github       : https://github.com/This-username-is-available
 @LastEditTime : 2020-02-27 12:01:20
 @LastEditors  : Li Baoyan
 @Description  : 
