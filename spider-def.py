@@ -3,19 +3,6 @@
 
 """
 @Author       : Li Baoyan
-@Date         : 2020-02-27 17:52:32
-@Github       : https://github.com/This-username-is-available
-@LastEditTime : 2020-02-27 18:31:36
-@LastEditors  : Li Baoyan
-@Description  : 
-"""
-
-
-#!/usr/bin/env python
-# coding=utf-8
-
-"""
-@Author       : Li Baoyan
 @Date         : 2020-02-15 11:08:48
 @Github       : https://github.com/This-username-is-available
 @LastEditTime : 2020-02-26 18:16:24
